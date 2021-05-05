@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-source-firebase-v3",
+  "version": "1.0.0",
+  "description": "gatsby source plugin to load documents from the rt firebase db",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Safi eddine <saphidev@gmail.com>",
+  "files": [
+    "gatsby-node.js",
+    "README.md"
+  ],
+  "repository": "apotox/gatsby-source-firebase-v3",
+  "main": "gatsby-node.js",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.7.0"
+  }
+}
