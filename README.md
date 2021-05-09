@@ -1,5 +1,9 @@
 # Gatsby Firebase Source for gatsby v3
 
+## install via [NPM](https://www.npmjs.com/package/gatsby-source-firebase-v3)
+```
+npm i gatsby-source-firebase-v3
+```
 
 ## add plugin to gatsby-config with options:
 ```
